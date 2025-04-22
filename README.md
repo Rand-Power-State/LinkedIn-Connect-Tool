@@ -123,20 +123,6 @@ python main.py
 
 ---
 
-## 📄 requirements.txt Contents
-
-```
-selenium
-```
-
-Install via:
-
-```bash
-pip install selenium
-```
-
----
-
 ## 🛑 Common Error Fixes
 
 **Error:**
