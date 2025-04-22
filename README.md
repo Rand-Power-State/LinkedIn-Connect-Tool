@@ -2,7 +2,7 @@
 # 📎 LinkedIn Connection Automation Bot
 
 <p align="center">
-  <img src="assets/image2.png" alt="App GUI Screenshot" width="700"/>
+  <img src="assets/image2.png" alt="App GUI Screenshot" width="400"/>
 </p>
 
 
@@ -43,7 +43,7 @@ Download and install Python if you haven't already:
 Either download this repository as a ZIP and extract it, or clone it using:
 
 ```bash
-git clone https://github.com/your-username/linkedin-connection-bot.git
+git clone https://github.com/Rand-Power-State/LinkedIn-Connect-Tool.git
 ```
 
 Navigate to the project folder:
@@ -67,7 +67,7 @@ Activate the virtual environment:
 - **Windows:**
 
 ```bash
-.\.venv\Scriptsctivate
+./venv/Scripts/activate
 ```
 
 - **Mac/Linux:**
